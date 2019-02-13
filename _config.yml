@@ -14,25 +14,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Y'all Boys Talkin'
-email: yallboys@ybt.fm
+email: yallboystalkin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Y'all Boys
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ybt.fm" # the base hostname & protocol for your site, e.g. http://example.com
 
 podcast_url: https://ybt.fm
-podcast_album_art: /assets/album-art.png
+podcast_album_art: /assets/cover.png
 podcast_title: Y'all Boys Talkin'
 podcast_owner: Y'all Boys
-podcast_email: yallboys@ybt.fm
+podcast_email: yallboystalkin@gmail.com
 podcast_category: Y'all Boys
-podcast_subcategory_one: Y'all Boys
-podcast_subcategory_two: Y'all Boys
-podcast_explicit: "no"
+podcast_subcategory_one: Society
+podcast_subcategory_two: Culture
+podcast_explicit: "yes"
 podcast_author: Y'all Boys
-podcast_description: Y'all Boys
-podcast_summary: Y'all Boys
-podcast_subtitle: Y'all Boys
+podcast_description: "Y'all Boys Talkin': A Podcast about Nonsensical Improvement is a weekly opportunity for them to make it through their late 20's and early 30's by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves through finding inspiration in the world and each other."
+podcast_summary: With over a decade of a long-distance friendship, Y'all Boys (Josh, Frank, Steve and Max) realized that getting by needs more than a little help from your friends.
+podcast_subtitle: A Podcast About Nonsensical Improvement
 
 # Build settings
 theme: minima
