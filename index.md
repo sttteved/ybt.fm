@@ -14,9 +14,9 @@ layout: home
 </div>
 
 <style scoped>
-.btn__container a,
-.btn__container a:hover,
-.btn__container a:visited {
+a,
+a:hover,
+a:visited {
   color: currentColor;
 }
 
@@ -36,7 +36,7 @@ layout: home
   text-transform: uppercase;
 }
 
-.btn__container a.btn:hover {
+a.btn:hover {
   box-shadow: none;
   text-decoration: none;
   color: white;
@@ -71,6 +71,7 @@ a.spotify:hover {
 }
 
 a.disabled,
+a.disabled:visited,
 a.disabled:hover {
   box-shadow: 0 0 0 2px inset;
   color: #999;
