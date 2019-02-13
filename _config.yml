@@ -25,9 +25,9 @@ podcast_album_art: /assets/cover.png
 podcast_title: Y'all Boys Talkin'
 podcast_owner: Y'all Boys
 podcast_email: yallboystalkin@gmail.com
-podcast_category: Society & Culture
-podcast_subcategory_one: Society
-podcast_subcategory_two: Culture
+podcast_category: Society &amp; Culture
+podcast_subcategory_one: Careers
+podcast_subcategory_two: Comedy
 podcast_explicit: "yes"
 podcast_author: Y'all Boys
 podcast_description: "Y'all Boys Talkin': A Podcast about Nonsensical Improvement is a weekly opportunity for them to make it through their late 20's and early 30's by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves through finding inspiration in the world and each other."
