@@ -13,7 +13,7 @@ layout: post
 
 Y'all Boys launch their first episode by setting challenges to hit before their 10-year high school reunion as well as the logistics of getting four people into a two-person car, the expanding waistline of Vin Diesel and the top seven white people of all time! Plus, Y'all Boys choose their first #STTT of the Week who proves that sometimes the warmest hearts can come from the coldest places.
 
-Keep up with Y'all Boys and their challenges at [https://ybt.fm](ybt.fm)
+Keep up with Y'all Boys and their challenges at [ybt.fm](https://ybt.fm)
 
 Follow them on Twitter and Instagram: **@yallboystalkin**
 
