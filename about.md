@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-With over a decade of a long-distance friendship, Y'all Boys (Josh, Frank, Steve and Max) realized that getting by needs more than a little help for your friends.
+With over a decade of a long-distance friendship and accountability, Y'all Boys (Josh, Frank, Steve and Max) look to help you better yourself by hearing them better themselves.
 
-Y'all Boys Talkin': A Podcast about Nonsensical Improvement is a weekly opportunity for them to make it through their late 20's and early 30's by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves through finding inspiration in the world and each other.
+Through seemingly nonsensical means, Y’all Boys look to go #STTT (Straight To The Top) by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves by finding inspiration in the world and each other.
