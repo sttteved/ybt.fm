@@ -9,7 +9,7 @@ layout: home
 
 <div class="btn__container">
   <a class="btn disabled" href="#">iTunes</a>
-  <a class="btn disabled" href="#">Google Play</a>
+  <a class="btn play" href="https://play.google.com/music/listen#/ps/Icqw2qixlfgyrebhomlxrhen7k4">Google Play</a>
   <a class="btn spotify" href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=zEyr_F4oQs6El1av3kT8iA&fbclid=IwAR3i67W65XU4Fl8HpIduxKlhzVsPwT2XP3a6vbxKc2WYUUF-SCXfPzHRWIc">Spotify</a>
   <a class="btn rss" href="/feed/">Podcast RSS</a>
 </div>
@@ -54,6 +54,14 @@ a.itunes {
 
 a.itunes:hover {
   background: #ef6754;
+}
+
+a.play {
+  color: #ff4f2d;
+}
+
+a.play:hover {
+  background: #ff4f2d;
 }
 
 a.rss {
