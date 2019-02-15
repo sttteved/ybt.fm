@@ -21,5 +21,5 @@ permalink: /challenges/
 
 #### Steve
 - Start and maintain a daily journal
-- Record and pubically release a five song EP
+- Record and publicly release a five song EP
 - Do less waiting
