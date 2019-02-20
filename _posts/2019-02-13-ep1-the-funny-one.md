@@ -1,6 +1,6 @@
 ---
 title: "Episode 1: The Funny One"
-date: 2019-02-13 00:07:00 −07:00
+date: 2019-02-13 07:00:00 −07:00
 categories: podcast
 permalink: /1/
 image: /assets/cover.png

@@ -1,13 +1,13 @@
 ---
 title: "Episode 2: Sharpening the Axe"
-date: 2019-02-20 00:07:00 −07:00
+date: 2019-02-20 07:00:00 −07:00
 categories: podcast
 permalink: /2/
 image: /assets/cover.png
 podcast_link: https://storage.googleapis.com/ybt.fm/episodes/YBTS01E02.mp3
-podcast_file_size: 68.5 MB
-podcast_duration: "49:50"
-podcast_length: 71827456
+podcast_file_size: 65 MB
+podcast_duration: "45:05"
+podcast_length: 64981500
 layout: post
 ---
 
