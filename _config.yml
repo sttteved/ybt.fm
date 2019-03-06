@@ -22,7 +22,7 @@ url: "https://ybt.fm" # the base hostname & protocol for your site, e.g. http://
 timezone: America/Los_Angeles
 
 podcast_url: https://ybt.fm
-podcast_album_art: /assets/cover.png
+podcast_album_art: /assets/cover.jpeg
 podcast_title: Y'all Boys Talkin'
 podcast_owner: Y'all Boys
 podcast_email: yallboystalkin@gmail.com

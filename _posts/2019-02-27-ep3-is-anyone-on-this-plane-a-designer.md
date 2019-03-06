@@ -3,7 +3,7 @@ title: "Episode 3: Is Anyone on this Plane a Designer?!"
 date: 2019-02-27 07:00:00 −07:00
 categories: podcast
 permalink: /3/
-image: /assets/cover.png
+image: /assets/cover.jpeg
 podcast_link: https://storage.googleapis.com/ybt.fm/episodes/YBTS01E03.mp3
 podcast_file_size: 67.78 MB
 podcast_duration: "49:19"
