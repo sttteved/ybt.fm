@@ -9,7 +9,7 @@ layout: home
 
 <div class="btn__container">
   <a class="btn itunes" href="https://itunes.apple.com/us/podcast/yall-boys-talkin/id1452781895?mt=2">iTunes</a>
-  <a class="btn play" href="https://play.google.com/music/listen#/ps/Icqw2qixlfgyrebhomlxrhen7k4">Google Play</a>
+  <a class="btn play" href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Y_all_Boys_Talkin">Google Play</a>
   <a class="btn spotify" href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=zEyr_F4oQs6El1av3kT8iA&fbclid=IwAR3i67W65XU4Fl8HpIduxKlhzVsPwT2XP3a6vbxKc2WYUUF-SCXfPzHRWIc">Spotify</a>
   <a class="btn rss" href="/feed/">Podcast RSS</a>
 </div>
