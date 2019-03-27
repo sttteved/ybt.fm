@@ -1,6 +1,6 @@
 ---
 title: "Episode 7: What is Fun?"
-date: 3019-03-27 07:00:00 −07:00
+date: 2019-03-27 07:00:00 −07:00
 categories: podcast
 permalink: /7/
 image: /assets/cover.jpeg
