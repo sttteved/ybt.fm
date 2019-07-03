@@ -14,9 +14,7 @@ layout: post
 Straight up, this podcast is three more conversations away from being a full on Spider-Man podcast. Spider-Verse is sooooo good, go see it if you haven’t! Anyway, this week Y’all Boys take a deep dive into interracial relationships, Garageband preset names and the true meaning of “fun”. The #STTT of the Week goes to a young person who is looking at the iceberg (or lack thereof) and not only calling that ish out, but started a movement along with it! 
 
 Keep up with Y'all Boys and their challenges at [yallboystalkin.com](https://yallboystalkin.com)
-
-Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
+<br>Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
 
 This episode is sponsored by recycling and talking on the phone. 
-
-Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**
+<br>Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**

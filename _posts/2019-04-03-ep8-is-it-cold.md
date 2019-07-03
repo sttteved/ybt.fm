@@ -16,9 +16,7 @@ Yo, there are so many “L”s on this episode that Cool J had to give up a few 
 See [“The Self-Contained Hootenanny”](https://www.youtube.com/watch?v=zh-lKF6UuLk) in action!
 
 Keep up with Y'all Boys and their challenges at [yallboystalkin.com](https://yallboystalkin.com)
-
-Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
+<br>Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
 
 This episode is sponsored by The Anti-Scrolling in Bed Coalition and Water. 
-
-Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**
+<br>Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**

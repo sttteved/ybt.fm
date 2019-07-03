@@ -14,9 +14,7 @@ layout: post
 This week, Max gives the Illuminati tips for onboarding, Spider-Man gets the business for not showing Brooklyn love, the newly established “House of Y’all” vetoes a proposed change in a challenge and Frank wrestles with some difficult thoughts. Also, the #STTT of the Week has a young icon staying woke and using his privilege for good.
 
 Keep up with Y'all Boys and their challenges at [yallboystalkin.com](https://yallboystalkin.com)
-
-Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
+<br>Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
 
 This episode is sponsored by The Anti-Scrolling in Bed Coalition and Reusable Grocery Bags
-
-Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**
+<br>Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**

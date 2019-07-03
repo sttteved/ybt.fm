@@ -18,9 +18,7 @@ Also the #STTT of the Week went from a first generation child of immigrants to b
 Mentioned this week: Financial Advice for Millenials [(pdf)](https://www.etf.com/docs/IfYouCan.pdf)
 
 Keep up with Y'all Boys and their challenges at [yallboystalkin.com](https://yallboystalkin.com)
+<br>Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
 
-Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
-
-This episode is sponsored by Going Outside and The Anti-Scrolling in Bed Coalition
-
-Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**
+This episode is sponsored by Going Outside and The Anti-Scrolling in Bed Coalition.
+<br>Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**

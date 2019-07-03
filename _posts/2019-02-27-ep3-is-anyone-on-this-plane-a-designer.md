@@ -16,9 +16,7 @@ Y’all Boys have reunited after Steve returns from the slopes and in this episo
 Follow our #STTT of the Week **@woodyothello** and see his work at [woodyothello.com](http://woodyothello.com)
 
 Keep up with Y'all Boys and their challenges at [yallboystalkin.com](https://yallboystalkin.com)
-
-Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
+<br>Follow them on Instagram, Twitter and Facebook: **@yallboystalkin**
 
 This episode is sponsored by WATER and READING A BOOK
-
-Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**
+<br>Theme Song “Won’t Stop” by **@jeanomusic** and Interstitial Music by **@ADNLewis**
