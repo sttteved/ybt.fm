@@ -1,8 +1,10 @@
 ---
-title: "Episode 7: What is Fun?"
+title: "What is Fun?"
 date: 2019-03-27 07:00:00 −07:00
 categories: podcast
 permalink: /7/
+season: 1
+episode: 7
 image: /assets/cover.jpeg
 podcast_link: https://storage.googleapis.com/ybt.fm/episodes/YBTS01E07.mp3
 podcast_file_size: 95 MB

@@ -1,8 +1,10 @@
 ---
-title: "Episode 8: Is it Cold?"
+title: "Is it Cold?"
 date: 2019-04-03 07:00:00 −07:00
 categories: podcast
 permalink: /8/
+season: 1
+episode: 8
 image: /assets/cover.jpeg
 podcast_link: https://storage.googleapis.com/ybt.fm/episodes/YBTS01E08.mp3
 podcast_file_size: 71.7 MB

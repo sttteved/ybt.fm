@@ -1,8 +1,10 @@
 ---
-title: "Episode 1: The Funny One"
+title: "The Funny One"
 date: 2019-02-13 07:00:00 −07:00
 categories: podcast
 permalink: /1/
+season: 1
+episode: 1
 image: /assets/cover.jpeg
 podcast_link: https://storage.googleapis.com/ybt.fm/episodes/YBTS01E01.mp3
 podcast_file_size: 69.15 MB

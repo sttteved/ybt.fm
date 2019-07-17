@@ -1,8 +1,10 @@
 ---
-title: "Episode 4: Are You Black?"
+title: "Are You Black?"
 date: 2019-03-06 07:00:00 −07:00
 categories: podcast
 permalink: /4/
+season: 1
+episode: 4
 image: /assets/cover.jpeg
 podcast_link: https://storage.googleapis.com/ybt.fm/episodes/YBTS01E04.mp3
 podcast_file_size: 79.6 MB

@@ -1,8 +1,10 @@
 ---
-title: "Episode 5: Legally Binding Podcast"
+title: "Legally Binding Podcast"
 date: 2019-03-13 07:00:00 −07:00
 categories: podcast
 permalink: /5/
+season: 1
+episode: 5
 image: /assets/cover.jpeg
 podcast_link: https://storage.googleapis.com/ybt.fm/episodes/YBTS01E05.mp3
 podcast_file_size: 90.7 MB

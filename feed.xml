@@ -69,6 +69,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
+    <itunes:season>{{ ep.season }}</itunes:season>
+    <itunes:episode>{{ ep.episode }}</itunes:episode>
   </item>
 {% endfor %}
 </channel>
