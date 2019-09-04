@@ -6,7 +6,7 @@
     <div class="post-card__content">
       <PostMeta class="post-card__meta" :post="post" />
       <h2 class="post-card__title" v-html="post.title" />
-      <p class="post-card__description" v-html="post.description" />
+      <p v-if="post.description" class="post-card__description" v-html="post.description" />
       
       <!-- 
       <PostTags class="post-card__tags" :post="post" /> -->
@@ -31,7 +31,7 @@ export default {
 
 <style lang="scss">
 .post-card {
-  margin-bottom: var(--space);
+  margin-bottom: calc(var(--space) / 2);
   position: relative;
 
   &__header {
@@ -53,6 +53,7 @@ export default {
 
   &__title {
     margin-top: 0;
+    margin-bottom: 0;
   }
 
   &__meta {

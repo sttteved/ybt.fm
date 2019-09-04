@@ -6,9 +6,10 @@
         <Logo v-if="showLogo" /> 
       </div>
       
-      <div class="header__right">        
+      <p class="header__right">        
         <!-- <ToggleTheme /> -->
-      </div>
+        <g-link class="header__link" to="/episodes">Episodes</g-link>
+      </p>
     </header>
 
     <main class="main">
@@ -43,15 +44,19 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  max-width: var(--desktop-width);
+  margin-left: auto;
+  margin-right: auto;
   min-height: var(--header-height);
   padding: 0 calc(var(--space) / 2);
-  top:0;
+  top: 0;
   z-index: 10;
 
   &__left,
   &__right {
     display: flex;
     align-items: center;
+    margin: 0;
   }
 
   @media screen and (min-width: 1300px) {
