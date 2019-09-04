@@ -10,7 +10,7 @@
         <!-- <ToggleTheme /> -->
         <g-link class="link" to="/about">About</g-link>
         <g-link class="link" to="/episodes">Episodes</g-link>
-        <g-link class="link" to="/contact">Contact</g-link>
+        <!-- <g-link class="link" to="/contact">Contact</g-link> -->
       </p>
     </header>
 
@@ -18,7 +18,10 @@
       <slot/>
     </main>
 
+    <Author class="post-author" v-if="showLogo" />
+
     <footer class="footer" v-if="showLogo">
+
       <span class="footer__copyright">© {{ new Date().getFullYear() }} YBT Media</span>
       <!-- <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span> -->
     </footer>
@@ -29,12 +32,14 @@
 <script>
 import Logo from '~/components/Logo.vue'
 import ToggleTheme from '~/components/ToggleTheme.vue'
+import Author from '~/components/Author.vue'
 
 export default {
   props: {
     showLogo: { default: true }
   },
   components: {
+    Author,
     Logo,
     ToggleTheme
   }
@@ -83,6 +88,9 @@ export default {
 .main {
   margin: 0 auto;
   // padding: 1.5vw 15px 0;
+  > h1 {
+    margin: 2em 0 1em;
+  }
 }
 
 .footer {
@@ -100,5 +108,9 @@ export default {
   a {
     color: currentColor;
   }
+}
+
+.post-author {
+  margin-top: calc(var(--space) / 2);
 }
 </style>

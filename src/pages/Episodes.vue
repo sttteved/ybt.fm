@@ -4,8 +4,9 @@
     <!-- <Author :show-title="true" /> -->
 
     <!-- List posts -->
+    <h1 class="text-center">Episodes</h1>
     <div class="posts">
-      <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+      <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
     </div>
 
   </Layout>
@@ -26,10 +27,10 @@
         }
         date (format: "MMM DD")
         timeToRead
-        description
+        # description
         season
         episode
-        coverImage (width: 770, height: 380, blur: 10)
+        # coverImage (width: 770, height: 380, blur: 10)
         ...on Post {
             id
             title
@@ -51,7 +52,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Home'
+    title: 'Episodes'
   }
 }
 </script>

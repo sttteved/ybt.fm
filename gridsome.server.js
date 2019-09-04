@@ -8,6 +8,6 @@
 module.exports = function (api) {
   api.loadSource(store => {
     // Use the Data store API here: https://gridsome.org/docs/data-store-api
-    store.addMetaData('siteTagline', 'A podcast about nonsenical improvement');
+    store.addMetaData('siteTagline', 'A podcast about nonsensical improvement');
   })
 }

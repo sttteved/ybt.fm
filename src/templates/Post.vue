@@ -1,18 +1,18 @@
 <template>
   <Layout>
-    <div class="post-title">
+    <!-- <div class="post-title">
       <h1 class="post-title__text">
       </h1>
       
-    </div>
+    </div> -->
+    <h1 class="text-center">{{ $page.post.title }}</h1>
+
+    <PostMeta class="post-post-meta text-center" :post="$page.post" />
     
     <div class="post content-box">
       <div class="post__header">
         <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage" />
       </div>
-
-      <h1>{{ $page.post.title }}</h1>
-      <PostMeta :post="$page.post" />
 
       <div class="post__content" v-html="$page.post.content" />
 
@@ -21,22 +21,19 @@
       </div>
     </div>
 
-    <div class="post-comments">
+    <div class="post-comments" v-if="comments">
       <!-- Add comment widgets here -->
     </div>
 
-    <Author class="post-author" />
   </Layout>
 </template>
 
 <script>
 import PostMeta from '~/components/PostMeta'
 import PostTags from '~/components/PostTags'
-import Author from '~/components/Author.vue'
 
 export default {
   components: {
-    Author,
     PostMeta,
     PostTags
   },
@@ -66,11 +63,11 @@ query Post ($path: String!) {
       title
       path
     }
-    description
+    # description
     content
     season
     episode
-    coverImage (width: 860, blur: 10)
+    # coverImage (width: 860, blur: 10)
   }
 }
 </page-query>
@@ -79,6 +76,11 @@ query Post ($path: String!) {
 .post-title {
   padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
   text-align: center;
+}
+
+.post-post-meta {
+  justify-content: center;
+  margin-bottom: 2em;
 }
 
 .post {
@@ -125,9 +127,5 @@ query Post ($path: String!) {
   &:empty {
     display: none;
   }
-}
-
-.post-author {
-  margin-top: calc(var(--space) / 2);
 }
 </style>

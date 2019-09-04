@@ -2,18 +2,18 @@
   <Layout :show-logo="false">
     <div class="home">
       <div class="home__about">
-        <g-image alt="Y'all Boys" src="~/assets/images/author.webp" width="680" height="680" />
+        <g-image alt="Y'all Boys" src="~/assets/images/author.webp" width="680" height="680" quality="100" />
         <h1>{{ $static.metaData.siteName }}</h1>
         <h6>{{ $static.metaData.siteTagline }}</h6>
       </div>
       <nav class="home__nav">
         <g-link class="link" to="/about">About</g-link>
         <g-link class="link" to="/episodes">Episodes</g-link>
-        <g-link class="link" to="/contact">Contact</g-link>
+        <!-- <g-link class="link" to="/contact">Contact</g-link> -->
         <h6>Listen now:</h6>
-        <a target="_blank" class="link spotify" href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=zEyr_F4oQs6El1av3kT8iA&fbclid=IwAR3i67W65XU4Fl8HpIduxKlhzVsPwT2XP3a6vbxKc2WYUUF-SCXfPzHRWIc">Spotify</a>
-        <a target="_blank" class="link apple" href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895?mt=2">Apple Podcasts</a>
-        <a target="_blank" class="link google" href="https://play.google.com/music/listen#/ps/Icqw2qixlfgyrebhomlxrhen7k4">Google Podcasts</a>
+        <a target="_blank" class="link spotify" href="//open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=zEyr_F4oQs6El1av3kT8iA&fbclid=IwAR3i67W65XU4Fl8HpIduxKlhzVsPwT2XP3a6vbxKc2WYUUF-SCXfPzHRWIc">Spotify</a>
+        <a target="_blank" class="link apple" href="//podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895?mt=2">Apple Podcasts</a>
+        <a target="_blank" class="link google" href="//play.google.com/music/listen#/ps/Icqw2qixlfgyrebhomlxrhen7k4">Google Podcasts</a>
       </nav>
     </div>
   </Layout>
@@ -34,10 +34,10 @@
         }
         date (format: "MMMM D, YYYY")
         timeToRead
-        description
+        # description
         season
         episode
-        coverImage (width: 770, height: 380, blur: 10)
+        # coverImage (width: 770, height: 380, blur: 10)
         ...on Post {
             id
             title
