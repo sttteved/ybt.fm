@@ -19,36 +19,6 @@
   </Layout>
 </template>
 
-<page-query>
-{
-  posts: allPost(filter: { published: { eq: true }}) {
-    edges {
-      node {
-        id
-        title
-        path
-        tags {
-          id
-          title
-          path
-        }
-        date (format: "MMMM D, YYYY")
-        timeToRead
-        # description
-        season
-        episode
-        # coverImage (width: 770, height: 380, blur: 10)
-        ...on Post {
-            id
-            title
-            path
-        }
-      }
-    }
-  }
-}
-</page-query>
-
 <static-query>
 query {
   metaData {
@@ -87,6 +57,7 @@ export default {
     grid-column-start: span 7;
     img {
       display: block;
+      border-radius: var(--radius);
     }
     h1 {
       margin: .5em 0 .25em;
@@ -113,6 +84,9 @@ export default {
       &:first-child {
         margin-top: -3em;
       }
+      @media screen and (max-width: 1200px) {
+        font-size: 1.5em;
+      }
     }
     h6 {
       margin: 4em 0 0;
@@ -130,6 +104,26 @@ export default {
   }
   .google {
     color: #4285F4;
+  }
+  @media screen and (max-width: 960px) {
+    display: flex;
+    flex-flow: column nowrap;
+    &__about {
+      min-height: 80vh;
+      padding: calc(var(--grid-gap) * 2);
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+    }
+    &__nav {
+      min-height: 80vh;
+      width: 100%;
+      justify-content: flex-start;
+      padding-top: calc(var(--grid-gap) * 2);
+      .link:first-child {
+        margin-top: 0;
+      }
+    }
   }
 }
 </style>

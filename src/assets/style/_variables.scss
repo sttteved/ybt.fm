@@ -22,6 +22,16 @@ body {
   --radius: 5px;
 }
 
+@media screen and (max-width: 1200px) {
+	body {
+		--desktop-width: 960px;
+		--grid-columns: 12;
+		--grid-column-width: 60px;
+		--grid-gap: 20px;
+		--content-width: 720px;
+	}
+}
+
 // Make  things smaller for mobile
 @media screen and (max-width: 650px) {
 	html {
