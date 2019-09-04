@@ -1,23 +1,25 @@
 <template>
   <div id="app">
 
-    <header class="header">
+    <header class="header" v-if="showLogo">
       <div class="header__left">
-        <Logo v-if="showLogo" /> 
+        <Logo /> 
       </div>
       
       <p class="header__right">        
         <!-- <ToggleTheme /> -->
-        <g-link class="header__link" to="/episodes">Episodes</g-link>
+        <g-link class="link" to="/about">About</g-link>
+        <g-link class="link" to="/episodes">Episodes</g-link>
+        <g-link class="link" to="/contact">Contact</g-link>
       </p>
     </header>
 
-    <main class="main">
+    <main class="main" :class="{ padded: showLogo }">
       <slot/>
     </main>
 
-    <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
+    <footer class="footer" v-if="showLogo">
+      <span class="footer__copyright">© {{ new Date().getFullYear() }} YBT Media</span>
       <!-- <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span> -->
     </footer>
 
@@ -40,6 +42,9 @@ export default {
 </script>
 
 <style lang="scss">
+.padded {
+  padding: 0 calc(var(--space) / 2);
+}
 .header {
   display: flex;
   justify-content: space-between;
@@ -59,6 +64,15 @@ export default {
     margin: 0;
   }
 
+  &__right {
+    .link {
+      margin-left: 2ch;
+      &:first-child {
+        margin-left: 0;
+      }
+    }
+  }
+
   @media screen and (min-width: 1300px) {
     //Make header sticky for large screens
     position: sticky;
@@ -68,7 +82,7 @@ export default {
 
 .main {
   margin: 0 auto;
-  padding: 1.5vw 15px 0;
+  // padding: 1.5vw 15px 0;
 }
 
 .footer {

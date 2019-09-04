@@ -14,6 +14,9 @@ body {
  	--border-color:  rgba(0,0,0,.1);;
 	--space: 3.5rem;
 	--desktop-width: 1200px;
+	--grid-columns: 12;
+	--grid-column-width: 80px;
+	--grid-gap: 20px; // (1200 - (12*20))/12
   --content-width: 860px;
   --header-height: 80px;
   --radius: 5px;
