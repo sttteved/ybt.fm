@@ -9,6 +9,7 @@
       <p class="header__right">        
         <!-- <ToggleTheme /> -->
         <g-link class="link" to="/about">About</g-link>
+        <g-link class="link" to="/challenges">Challenges</g-link>
         <g-link class="link" to="/episodes">Episodes</g-link>
         <!-- <g-link class="link" to="/contact">Contact</g-link> -->
       </p>
