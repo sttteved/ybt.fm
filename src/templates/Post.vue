@@ -21,9 +21,9 @@
       </div>
     </div>
 
-    <div class="post-comments" v-if="comments">
+    <!-- <div class="post-comments" v-if="comments"> -->
       <!-- Add comment widgets here -->
-    </div>
+    <!-- </div> -->
 
   </Layout>
 </template>
