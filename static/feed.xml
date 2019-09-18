@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="https://ybt.fm/feed/podcast" rel="self" type="application/rss+xml" />
 <link>https://ybt.fm</link>
 <description>Through seemingly nonsensical means, Y’all Boys look to go #STTT (Straight To The Top) by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves by finding inspiration in the world and each other.</description>
-<lastBuildDate>Wed, 11 Sep 2019 07:05:27 -0700</lastBuildDate>
+<lastBuildDate>Wed, 18 Sep 2019 07:05:27 -0700</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Careers" />
 <itunes:category text="Comedy" />
 </itunes:category>
+
+<item>
+    <title>Ancient BC</title>
+    <link>https://ybt.fm/2/3/</link>
+    <comments>https://ybt.fm/2/3/#comments</comments>
+    <pubDate>Wed, 18 Sep 2019 04:00:00 -0700</pubDate>
+    <dc:creator><![CDATA[]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <guid isPermaLink="true">https://ybt.fm/2/3/</guid>
+    <description>
+        <![CDATA[Every week, Y&#39;all Boys are out here to give you nuggets of wisdom...mostly by showing you how it&#39;s not done... Max learns that spite won&#39;t make his vision better, the returning Steve realizes the importance of checking his emails, Josh learns about illegally installing speed bumps and Frank learns that it&#39;s hard to complete your challenges when you double the amount of them every week.]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Every week, Y&#39;all Boys are out here to give you nuggets of wisdom...mostly by showing you how it&#39;s not done... Max learns that spite won&#39;t make his vision better, the returning Steve realizes the importance of checking his emails, Josh learns about illegally installing speed bumps and Frank learns that it&#39;s hard to complete your challenges when you double the amount of them every week.</p>
+<p>The #STTT of the Week goes to Maika and Maritza Moulite, Haitian-American authors of the young adult novel <em>&quot;Dear Haiti, Love Alaine&quot;</em> which is about a girl getting to know her mother, her culture and herself in a dazzling effort to make it clear that Black girls can go on hilarious, crazy life-changing adventures too.</p>
+<p>Dear Haiti, Love Alaine: <a href="https://www.amazon.com/Dear-Haiti-Alaine-Maika-Moulite/dp/1335777091/">Available on Amazon</a>
+<br><a href="https://twitter.com/michaelharriot/status/1170202643672776704">Twitter Thread on the Abaco Island in the Bahamas</a>
+<br>Couch to 5k App: <a href="https://www.active.com/mobile/couch-to-5k-app">https://www.active.com/mobile/couch-to-5k-app</a></p>
+<p>Keep up with Y&#39;all Boys and their challenges at <a href="https://yallboystalkin.com/">yallboystalkin.com</a> 
+<br>Follow them on <a href="https://www.instagram.com/yallboystalkin/">Instagram</a>, <a href="https://twitter.com/yallboystalkin">Twitter</a> and <a href="https://www.facebook.com/yallboystalkin/">Facebook</a>: @yallboystalkin</p>
+<p>This episode is sponsored by Get Off Your A** and Water
+<br>Theme Song &quot;Won&#39;t Stop&quot; by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
+    </content:encoded>
+
+    <enclosure url="https://storage.googleapis.com/ybt.fm/episodes/YBTS02E03.mp3" length="106625507 bytes" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Every week, Y&#39;all Boys are out here to give you nuggets of wisdom...mostly by showing you how it&#39;s not done... Max learns that spite won&#39;t make his vision better, the returning Steve realizes the importance of checking his emails, Josh learns about illegally installing speed bumps and Frank learns that it&#39;s hard to complete your challenges when you double the amount of them every week.]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Every week, Y&#39;all Boys are out here to give you nuggets of wisdom...mostly by showing you how it&#39;s not done... Max learns that spite won&#39;t make his vision better, the returning Steve realizes the importance of checking his emails, Josh learns about illegally installing speed bumps and Frank learns that it&#39;s hard to complete your challenges when you double the amount of them every week.</p>
+<p>The #STTT of the Week goes to Maika and Maritza Moulite, Haitian-American authors of the young adult novel <em>&quot;Dear Haiti, Love Alaine&quot;</em> which is about a girl getting to know her mother, her culture and herself in a dazzling effort to make it clear that Black girls can go on hilarious, crazy life-changing adventures too.</p>
+<p>Dear Haiti, Love Alaine: <a href="https://www.amazon.com/Dear-Haiti-Alaine-Maika-Moulite/dp/1335777091/">Available on Amazon</a>
+<br><a href="https://twitter.com/michaelharriot/status/1170202643672776704">Twitter Thread on the Abaco Island in the Bahamas</a>
+<br>Couch to 5k App: <a href="https://www.active.com/mobile/couch-to-5k-app">https://www.active.com/mobile/couch-to-5k-app</a></p>
+<p>Keep up with Y&#39;all Boys and their challenges at <a href="https://yallboystalkin.com/">yallboystalkin.com</a> 
+<br>Follow them on <a href="https://www.instagram.com/yallboystalkin/">Instagram</a>, <a href="https://twitter.com/yallboystalkin">Twitter</a> and <a href="https://www.facebook.com/yallboystalkin/">Facebook</a>: @yallboystalkin</p>
+<p>This episode is sponsored by Get Off Your A** and Water
+<br>Theme Song &quot;Won&#39;t Stop&quot; by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
+    <itunes:author>Y'all Boys</itunes:author>
+    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>01:14:02</itunes:duration>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>3</itunes:episode>
+</item>
 
 <item>
     <title>Dance of Obligations</title>
