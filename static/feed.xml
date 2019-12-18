@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="https://ybt.fm/feed/podcast" rel="self" type="application/rss+xml" />
 <link>https://ybt.fm</link>
 <description>Through seemingly nonsensical means, Y’all Boys look to go #STTT (Straight To The Top) by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves by finding inspiration in the world and each other.</description>
-<lastBuildDate>Wed, 18 Dec 2019 07:00:00 -0700</lastBuildDate>
+<lastBuildDate>Wed, 18 Dec 2019 09:00:00 -0700</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,10 +40,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </itunes:category>
 
 <item>
-    <title>Cat Xanax</title>
+    <title>Therapists are Mental Health Personal Trainers</title>
     <link>https://ybt.fm/2/16/</link>
     <comments>https://ybt.fm/2/16/#comments</comments>
-    <pubDate>Wed, 18 Dec 2019 07:00:00 -0700</pubDate>
+    <pubDate>Wed, 18 Dec 2019 09:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
