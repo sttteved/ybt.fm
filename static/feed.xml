@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="https://ybt.fm/feed/podcast" rel="self" type="application/rss+xml" />
 <link>https://ybt.fm</link>
 <description>Through seemingly nonsensical means, Y’all Boys look to go #STTT (Straight To The Top) by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves by finding inspiration in the world and each other.</description>
-<lastBuildDate>Wed, 1 Jan 2020 07:00:00 -0700</lastBuildDate>
+<lastBuildDate>Wed, 8 Jan 2020 07:00:00 -0700</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -39,6 +39,42 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Comedy" />
 </itunes:category>
 
+<item>
+    <title>On That Note... (Finale)</title>
+    <link>https://ybt.fm/2/19/</link>
+    <comments>https://ybt.fm/2/19/#comments</comments>
+    <pubDate>Wed, 8 Jan 2020 07:00:00 -0700</pubDate>
+    <dc:creator><![CDATA[]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <guid isPermaLink="true">https://ybt.fm/2/19/</guid>
+    <description>
+        <![CDATA[Y’all Boys wrap up the series with an all Rose, Bud, Thorn episode and grappling with their past and future. Thank you. All of you for listening. Just because this is over #STTT never ends.]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Y’all Boys wrap up the series with an all Rose, Bud, Thorn episode and grappling with their past and future. Thank you. All of you for listening. Just because this is over #STTT never ends.</p>
+
+<p>Follow Josh (@JoshJeanB), Frank (FrankAPM), Max (@JetSharkLambo) and Steve (@sdvim) on Instagram & Twitter.</p>
+<p>This episode is sponsored by the Water
+<br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
+    </content:encoded>
+
+    <enclosure url="https://storage.googleapis.com/ybt.fm/episodes/YBTS02E19.mp3" length="112015068 bytes" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Y’all Boys wrap up the series with an all Rose, Bud, Thorn episode and grappling with their past and future. Thank you. All of you for listening. Just because this is over #STTT never ends.]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Y’all Boys wrap up the series with an all Rose, Bud, Thorn episode and grappling with their past and future. Thank you. All of you for listening. Just because this is over #STTT never ends.</p>
+
+<p>Follow Josh (@JoshJeanB), Frank (FrankAPM), Max (@JetSharkLambo) and Steve (@sdvim) on Instagram & Twitter.</p>
+<p>This episode is sponsored by the Water
+<br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
+    <itunes:author>Y'all Boys</itunes:author>
+    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>01:17:46</itunes:duration>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>19</itunes:episode>
+</item>
 <item>
     <title>The End?! (a.k.a. Why do you hate me?)</title>
     <link>https://ybt.fm/2/18/</link>
