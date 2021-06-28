@@ -11,8 +11,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
  
 <channel>
 <title>Y'all Boys Talkin'</title>
-<atom:link href="https://ybt.fm/feed/podcast" rel="self" type="application/rss+xml" />
-<link>https://ybt.fm</link>
+<atom:link href="https://ybtfm.netlify.app/feed/podcast" rel="self" type="application/rss+xml" />
+<link>https://ybtfm.netlify.app</link>
 <description>Through seemingly nonsensical means, Y’all Boys look to go #STTT (Straight To The Top) by challenging, encouraging and making fun of each other to get off their butts and be the best version of themselves by finding inspiration in the world and each other.</description>
 <lastBuildDate>Wed, 8 Jan 2020 07:00:00 -0700</lastBuildDate>
 <language>en-US</language>
@@ -22,7 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:summary>With over a decade of a long-distance friendship and accountability, Y'all Boys (Josh, Frank, Steve and Max) look to help you better yourself by hearing them better themselves.</itunes:summary>
 <itunes:author>Y'all Boys</itunes:author>
 <itunes:explicit>yes</itunes:explicit>
-<itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+<itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
 <itunes:owner>
 <itunes:name>Y'all Boys</itunes:name>
 <itunes:email>yallboystalkin@gmail.com</itunes:email>
@@ -31,8 +31,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:subtitle>A Podcast About Nonsensical Improvement</itunes:subtitle>
 <image>
 <title>Y'all Boys Talkin'</title>
-<url>https://ybt.fm/assets/cover-s2.jpeg</url>
-<link>https://ybt.fm</link>
+<url>https://ybtfm.netlify.app/assets/cover-s2.jpeg</url>
+<link>https://ybtfm.netlify.app</link>
 </image>
 <itunes:category text="Society &amp; Culture">
 <itunes:category text="Careers" />
@@ -41,15 +41,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>On That Note... (Finale)</title>
-    <link>https://ybt.fm/2/19/</link>
-    <comments>https://ybt.fm/2/19/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/19/</link>
+    <comments>https://ybtfm.netlify.app/2/19/#comments</comments>
     <pubDate>Wed, 8 Jan 2020 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/19/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/19/</guid>
     <description>
         <![CDATA[Y’all Boys wrap up the series with an all Rose, Bud, Thorn episode and grappling with their past and future. Thank you. All of you for listening. Just because this is over #STTT never ends.]]>
     </description>
@@ -69,7 +69,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This episode is sponsored by the Water
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:17:46</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -77,15 +77,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 <item>
     <title>The End?! (a.k.a. Why do you hate me?)</title>
-    <link>https://ybt.fm/2/18/</link>
-    <comments>https://ybt.fm/2/18/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/18/</link>
+    <comments>https://ybtfm.netlify.app/2/18/#comments</comments>
     <pubDate>Wed, 1 Jan 2020 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/18/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/18/</guid>
     <description>
         <![CDATA[Y’all Boys sent 48 hours of voice notes deliberating in the House of Y’all about the future of the show and why it should end...]]>
     </description>
@@ -94,7 +94,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by the Holiday Season
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -105,11 +105,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by the Holiday Season
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:12:12</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -117,15 +117,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 <item>
     <title>Sentimental Capitalism</title>
-    <link>https://ybt.fm/2/17/</link>
-    <comments>https://ybt.fm/2/17/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/17/</link>
+    <comments>https://ybtfm.netlify.app/2/17/#comments</comments>
     <pubDate>Wed, 25 Dec 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/17/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/17/</guid>
     <description>
         <![CDATA[Merry Christmas / Happy Holidays / Enjoyable Time Off everybody! Grab some cocoa and put on your favorite sweater and hang out with Y’all Boys as we wrap up our 2019.]]>
     </description>
@@ -138,7 +138,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by the IRS and Book Reading
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -153,11 +153,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by the IRS and Book Reading
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:12:12</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -165,15 +165,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 <item>
     <title>Therapists are Mental Health Personal Trainers</title>
-    <link>https://ybt.fm/2/16/</link>
-    <comments>https://ybt.fm/2/16/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/16/</link>
+    <comments>https://ybtfm.netlify.app/2/16/#comments</comments>
     <pubDate>Wed, 18 Dec 2019 13:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/16/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/16/</guid>
     <description>
         <![CDATA[The three pillars of YBT are Brotherhood, Mental Health and $120,000 Bananas. The boys say goodbye to JuiceWRLD, Steve's got some challenges and he's also got some "challenges", Frank covers himself in the warm blanket of self-pity, Max preps himself for interrogations and Josh makes a huge formal announcement about his future in Miami.]]>
     </description>
@@ -186,7 +186,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by the Season of Giving and Call Your Folks
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -201,11 +201,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by the Season of Giving and Call Your Folks
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:01:58</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -213,15 +213,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 <item>
     <title>Cat Xanax</title>
-    <link>https://ybt.fm/2/15/</link>
-    <comments>https://ybt.fm/2/15/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/15/</link>
+    <comments>https://ybtfm.netlify.app/2/15/#comments</comments>
     <pubDate>Wed, 11 Dec 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/15/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/15/</guid>
     <description>
         <![CDATA[Josh is moving some ish around so the rest of Y’all Boys are here dealing with bad traffic and recapping their Thanksgiving weeks. Come for the Challenge Check Up but stay for this extra long Rose, Bud, Thorn which includes Steve trying to drive out Los Angeles on a Sunday night post-Thanksgiving, Frank deals with some snow in a place where it shouldn’t be and Max polishes the box of his album without putting anything inside.]]>
     </description>
@@ -232,7 +232,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by The Reusables
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -245,11 +245,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by The Reusables
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>58:46</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -257,15 +257,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 <item>
     <title>The New Yorker Edition</title>
-    <link>https://ybt.fm/2/14/</link>
-    <comments>https://ybt.fm/2/14/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/14/</link>
+    <comments>https://ybtfm.netlify.app/2/14/#comments</comments>
     <pubDate>Wed, 4 Dec 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/14/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/14/</guid>
     <description>
         <![CDATA[In a YBT first, two Boys are out due to scheduling conflicts and so New York City natives Frank and Max take the reins. Max aims at a calendar and misses, Frank does not get a proxy child and in their challenge checkups, Steve braves the Utah cold while Josh starts his standup career.]]>
     </description>
@@ -277,7 +277,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Mentioned in this episode: <a href="https://www.youtube.com/watch?v=ibgaSWPhXFA">PS4 Black Friday Commercial</a></p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
 
@@ -290,10 +290,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Mentioned in this episode: <a href="https://www.youtube.com/watch?v=ibgaSWPhXFA">PS4 Black Friday Commercial</a></p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>50:05</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -301,15 +301,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 <item>
     <title>How Are You?</title>
-    <link>https://ybt.fm/2/13/</link>
-    <comments>https://ybt.fm/2/13/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/13/</link>
+    <comments>https://ybtfm.netlify.app/2/13/#comments</comments>
     <pubDate>Wed, 27 Nov 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/13/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/13/</guid>
     <description>
         <![CDATA[This podcast was built on the frame of friends keeping each other accountable and BOY does that really come into action this week, so get out your Christmas Tree, set up your Festivus pole and give thanks to your Kwanzaa Bush (Is that a thing? I don’t think that’s a thing…). Steve thinks about thinking about it, Max reflects on his low grades, Josh continues his journey with party favors and Frank gets into an hour long fight with egg whites.]]>
     </description>
@@ -319,7 +319,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to Elias Da Hora Jr. is a pastor, father, husband, brother, son bro and newly minted United States citizen. #SaveDACA</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Anti-consumerism and Laundry Chair
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -331,11 +331,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to Elias Da Hora Jr. is a pastor, father, husband, brother, son bro and newly minted United States citizen. #SaveDACA</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Anti-consumerism and Laundry Chair
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:12:00</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -343,15 +343,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 <item>
     <title>Sous Vide in La Croix</title>
-    <link>https://ybt.fm/2/12/</link>
-    <comments>https://ybt.fm/2/12/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/12/</link>
+    <comments>https://ybtfm.netlify.app/2/12/#comments</comments>
     <pubDate>Wed, 20 Nov 2019 09:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/12/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/12/</guid>
     <description>
         <![CDATA[Thanksgiving is coming up soon and the Y’all Boys are both thankful to have each other and Y’all listeners as well. We hope your Wednesdays are lovely, especially this week where Frank, along with the rallying #TeamFrank, elaborates on learned helplessness, Steve continues making connections with the elderly, Josh gets a huge phone call that bring major momentum to #TeamJosh and Max takes his sick ass on a pilgrimage.]]>
     </description>
@@ -361,7 +361,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to the Paradise Bobcats Football Team who o.ne year after a horrific fire, the Paradise High School Football Team gave the small California town hope by completing an undefeated season of 9-0.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Inviting Friends and Knowing When to Invest
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -373,11 +373,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to the Paradise Bobcats Football Team who o.ne year after a horrific fire, the Paradise High School Football Team gave the small California town hope by completing an undefeated season of 9-0.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Inviting Friends and Knowing When to Invest
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>57:38</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -386,15 +386,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>#TeamFrank is Rallying</title>
-    <link>https://ybt.fm/2/11/</link>
-    <comments>https://ybt.fm/2/11/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/11/</link>
+    <comments>https://ybtfm.netlify.app/2/11/#comments</comments>
     <pubDate>Wed, 13 Nov 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/11/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/11/</guid>
     <description>
         <![CDATA[There’s been hard weeks on Y’all Boys Talkin’ but this one was a haaaard week y’all listeners. Max is back but the flu is still there and by the end of this episode you might be thinking “Do they all have the flu? They trippin’ right now...” Josh, now officially 30 years old takes on a more mature tone but loses some points when his birthday celebration goes on for too long, Steve has a major breakthrough with one of the seniors, Max takes his time rehabbing and Frank receives a not-so-great call from his father that straps a rocket to his back.]]>
     </description>
@@ -405,7 +405,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Knowing When to Invest and Thanksgiving
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -418,11 +418,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Knowing When to Invest and Thanksgiving
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>53:06</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -431,15 +431,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>Two Thumbs Down</title>
-    <link>https://ybt.fm/2/10/</link>
-    <comments>https://ybt.fm/2/10/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/10/</link>
+    <comments>https://ybtfm.netlify.app/2/10/#comments</comments>
     <pubDate>Wed, 6 Nov 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/10/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/10/</guid>
     <description>
         <![CDATA[Max has the flu, so what do we do? We follow up our goals as we’re known to do. The rhyming should stop, but I ain’t no cop, the rest of Y’all Boys head Straight to the….middle. It’s been a tough week Y’all Listeners but like 10 episodes from now we’re gonna look back at this and laugh...hopefully. Max gets replaced, Steve finally gets to help the elderly use ‘El Mouse’, Frank keeps trippin’ about his personal goal and Josh is on one hand helping out his community every which way he knows how, but slowly losing his thumbs in the process.]]>
     </description>
@@ -448,7 +448,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to a Pinky Cole, owner of the popular Atlanta Vegan restaurant “Slutty Vegan” who along with entrepreneur Stacey Lee, paid off the tuition for 30 Clark Atlanta College students as well as started “The Pinky Cole Foundation” to continue supporting students in the future.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Thanksgiving and Eddie Murphy
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -459,11 +459,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to a Pinky Cole, owner of the popular Atlanta Vegan restaurant “Slutty Vegan” who along with entrepreneur Stacey Lee, paid off the tuition for 30 Clark Atlanta College students as well as started “The Pinky Cole Foundation” to continue supporting students in the future.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Thanksgiving and Eddie Murphy
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:00:10</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -472,15 +472,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>The Married Life</title>
-    <link>https://ybt.fm/2/9/</link>
-    <comments>https://ybt.fm/2/9/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/9/</link>
+    <comments>https://ybtfm.netlify.app/2/9/#comments</comments>
     <pubDate>Wed, 30 Oct 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/9/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/9/</guid>
     <description>
         <![CDATA[After much anticipation and build up, Steve has completed his wedding and returns to the land of accountability to take his seat back in the House of Y’all...he still gotta do his sh*t doe. This week Frank celebrates making trash, Max levels up in his climbing skills, Josh competes in a short story competition and Steve has a rough landing in his return to the land of accountability.]]>
     </description>
@@ -491,7 +491,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <ul><li><a href="https://www.youtube.com/watch?v=m36QeKOJ2Fc">American Factory Trailer</a></li></ul>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by The End of Spooky Season and Consent
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -504,11 +504,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <ul><li><a href="https://www.youtube.com/watch?v=m36QeKOJ2Fc">American Factory Trailer</a></li></ul>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by The End of Spooky Season and Consent
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>53:47</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -517,15 +517,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>Literally Crash and Burn</title>
-    <link>https://ybt.fm/2/8/</link>
-    <comments>https://ybt.fm/2/8/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/8/</link>
+    <comments>https://ybtfm.netlify.app/2/8/#comments</comments>
     <pubDate>Wed, 23 Oct 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/8/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/8/</guid>
     <description>
         <![CDATA[Steve has finally tied the knot and is off in celebration so the rest of Y’all Boys are out here getting ready to break down how they juggled their goals through this important weekend. Frank gives into his fears of the saga, Max gets hella inspired by nature and a Josh once again adjust his community goal to jump into a political space.]]>
     </description>
@@ -534,7 +534,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to a wonderful man.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Consent and The Reuseables
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -545,11 +545,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to a wonderful man.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Consent and The Reuseables
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>45:24</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -558,15 +558,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>The Biggest Hurdle Is Yourself</title>
-    <link>https://ybt.fm/2/7/</link>
-    <comments>https://ybt.fm/2/7/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/7/</link>
+    <comments>https://ybtfm.netlify.app/2/7/#comments</comments>
     <pubDate>Wed, 16 Oct 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/7/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/7/</guid>
     <description>
         <![CDATA[Before we get into this, quick s/o to Kix. I’m not sure what they were going for but they really cornered the market on...that flavor. This week, with Steve out doing wedding duties, Max finds out the hardest thing to climb is his own self doubt, Frank messes up a recipe by adding all of the salt and Josh gets inspired and finally put pen to paper on his one man show!]]>
     </description>
@@ -575,7 +575,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to Simone Biles for being so great that they literally changed all the rules around her.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Sugar Moderation and Taking Out The Garbage
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -586,11 +586,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The #STTT of the Week goes to Simone Biles for being so great that they literally changed all the rules around her.</p>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Sugar Moderation and Taking Out The Garbage
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>45:12</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -599,15 +599,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>Community Coalition Against Fires</title>
-    <link>https://ybt.fm/2/6/</link>
-    <comments>https://ybt.fm/2/6/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/6/</link>
+    <comments>https://ybtfm.netlify.app/2/6/#comments</comments>
     <pubDate>Wed, 09 Oct 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/6/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/6/</guid>
     <description>
         <![CDATA[The wedding looms ahead and the fantasy football of accountability returns by both talking about generational debt as well as what they would do with invulnerability. This week Steve makes sure that all of his bike spokes are authentic, Frank understands the importance of Soy Sauce, Max explains how to translate piano notes to violin notes and Josh has himself a good ol’ fashioned, no nonsense, work with his hands, salt of the earth existential crisis!]]>
     </description>
@@ -620,7 +620,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </ul>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Don’t Do Blackface and Women
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]>
     </content:encoded>
@@ -635,11 +635,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </ul>
 <p>Subscribe: <a href="https://podcasts.apple.com/us/podcast/yall-boys-talkin/id1452781895">Apple Podcasts</a> | <a href="https://open.spotify.com/show/5xzMcpzL8T5g7zGqNMoQcB?si=XiBcFHUuQiezpPAWpIqv_A">Spotify</a> | <a href="https://play.google.com/music/m/Icqw2qixlfgyrebhomlxrhen7k4?t=Yall_Boys_Talkin">Google Podcasts</a> | <a href="https://www.stitcher.com/podcast/yallboystalkin/yall-boys-talkin">Stitcher</a>&nbsp;</p>
 <p>Follow: <a href="https://www.instagram.com/yallboystalkin/">Instagram</a> | <a href="https://twitter.com/yallboystalkin">Twitter</a> | <a href="https://www.facebook.com/yallboystalkin/">Facebook</a> | <a href="https://www.youtube.com/channel/UCV3VM1NDsYr_M5ST8S7hcPg">YouTube</a></p>
-<p>Keep up with Y'all Boys and their challenges at <a href="https://ybt.fm/">yallboystalkin.com</a></p>
+<p>Keep up with Y'all Boys and their challenges at <a href="https://ybtfm.netlify.app/">yallboystalkin.com</a></p>
 <p>This episode is sponsored by Don’t Do Blackface and Women
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:03:27</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -648,15 +648,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>B.A.D. Week</title>
-    <link>https://ybt.fm/2/5/</link>
-    <comments>https://ybt.fm/2/5/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/5/</link>
+    <comments>https://ybtfm.netlify.app/2/5/#comments</comments>
     <pubDate>Wed, 02 Oct 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/5/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/5/</guid>
     <description>
         <![CDATA[Holy sh*t. This got dark quick. Josh’s creative process goes under intense scrutiny, Max takes orders from a 17 year old, that boi Steve forgets to hang out with his bed and Frank’s stress leads him to some tough memories.]]>
     </description>
@@ -690,7 +690,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This episode is sponsored by Smiles and Reading Books
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:18:31</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -699,15 +699,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>Steve's Final Smash</title>
-    <link>https://ybt.fm/2/4/</link>
-    <comments>https://ybt.fm/2/4/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/4/</link>
+    <comments>https://ybtfm.netlify.app/2/4/#comments</comments>
     <pubDate>Wed, 25 Sep 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/4/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/4/</guid>
     <description>
         <![CDATA[What’s an American wedding celebration without a Bachelor Party amirite?! Y’all Boys take a trip to scenic...Homestead, Florida to record another live, in-person podcast at the end of “Steve’s Final Smash”. Steve digs into his new bike fighting game, Frank warns about doing things for clout, Josh learns how to commission a traffic study and Max’s long relationship with American Football is tested.]]>
     </description>
@@ -739,7 +739,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This episode is sponsored by The Reusables and 1-800-WATERWATERWATER
 <br>Theme Song "Won't Stop" by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:00:00</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -748,15 +748,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>Ancient BC</title>
-    <link>https://ybt.fm/2/3/</link>
-    <comments>https://ybt.fm/2/3/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/3/</link>
+    <comments>https://ybtfm.netlify.app/2/3/#comments</comments>
     <pubDate>Wed, 18 Sep 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/3/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/3/</guid>
     <description>
         <![CDATA[Every week, Y&#39;all Boys are out here to give you nuggets of wisdom...mostly by showing you how it&#39;s not done... Max learns that spite won&#39;t make his vision better, the returning Steve realizes the importance of checking his emails, Josh learns about illegally installing speed bumps and Frank learns that it&#39;s hard to complete your challenges when you double the amount of them every week.]]>
     </description>
@@ -784,7 +784,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This episode is sponsored by Get Off Your A** and Water
 <br>Theme Song &quot;Won&#39;t Stop&quot; by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:14:02</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -793,15 +793,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>Dance of Obligations</title>
-    <link>https://ybt.fm/2/2/</link>
-    <comments>https://ybt.fm/2/2/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/2/</link>
+    <comments>https://ybtfm.netlify.app/2/2/#comments</comments>
     <pubDate>Wed, 11 Sep 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/2/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/2/</guid>
     <description>
         <![CDATA[Steve’s off in Utah and the rest of Y’all Boys are here U..talkin (I apologize for that) about their first week of doing the challenges! Long story short, it isn’t pretty. Frank’s kitchen doesn’t get a lot of play, Max has a run in with a webinar and Josh figures out what to do with the rest of his ‘party favors’.]]>
     </description>
@@ -839,7 +839,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br>Theme song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and interstitial music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>00:54:54</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -848,15 +848,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title>Hot Boy Summer</title>
-    <link>https://ybt.fm/2/1/</link>
-    <comments>https://ybt.fm/2/1/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/1/</link>
+    <comments>https://ybtfm.netlify.app/2/1/#comments</comments>
     <pubDate>Wed, 4 Sep 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/1/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/1/</guid>
     <description>
         <![CDATA[After enjoying the sun and sliding downstairs in a box, they’re back! With a new saga comes new challenges and Y’all Boys are not holding back. They discuss what they’ve done on their time off, the old challenges they kept (or didn’t keep) and what it truly means to be ‘hood adjacent’. On top of all that, Steve has a major announcement that will change the landscape of this saga, and Y’all Boys, forever...]]>
     </description>
@@ -888,7 +888,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br>Theme song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and interstitial music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover-s2.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover-s2.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>00:47:13</itunes:duration>
     <itunes:season>2</itunes:season>
@@ -897,15 +897,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>The Friend Zone (Nonsensical Saga Finale)</title>
-    <link>https://ybt.fm/23/</link>
-    <comments>https://ybt.fm/23/#comments</comments>
+    <link>https://ybtfm.netlify.app/23/</link>
+    <comments>https://ybtfm.netlify.app/23/#comments</comments>
     <pubDate>Wed, 17 Jul 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/23/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/23/</guid>
     <description>
         <![CDATA[The battle has been completed but the road #STTT is still far from over. Y’all Boys look back on the Nonsensical Saga by revealing their #STTTs of the Era, say goodbye to this set of challenges and reveal the future of the podcast on this jam-packed episode!
 
@@ -943,7 +943,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>01:36:09</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -952,15 +952,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>The Reunion</title>
-    <link>https://ybt.fm/22/</link>
-    <comments>https://ybt.fm/22/#comments</comments>
+    <link>https://ybtfm.netlify.app/22/</link>
+    <comments>https://ybtfm.netlify.app/22/#comments</comments>
     <pubDate>Wed, 10 Jul 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/22/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/22/</guid>
     <description>
         <![CDATA[Everything has led up to this. 🎉🎉🎉
 
@@ -1008,7 +1008,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>43:36</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1017,15 +1017,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Never Take a Cash Advance</title>
-    <link>https://ybt.fm/21/</link>
-    <comments>https://ybt.fm/21/#comments</comments>
+    <link>https://ybtfm.netlify.app/21/</link>
+    <comments>https://ybtfm.netlify.app/21/#comments</comments>
     <pubDate>Wed, 03 Jul 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/21/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/21/</guid>
     <description>
         <![CDATA[Y’all Boys’ 10-year High School reunion is one week away and while the pressure is at a fever pitch, that doesn’t stop them from doing impressions of each other and warning you to NEVER TAKE A CASH ADVANCE. This week Frank realizes good mental health sometimes involves unfollowing a playlist,...]]>
     </description>
@@ -1059,7 +1059,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>53:55</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1068,15 +1068,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>You’re Definitely Not Starving</title>
-    <link>https://ybt.fm/20/</link>
-    <comments>https://ybt.fm/20/#comments</comments>
+    <link>https://ybtfm.netlify.app/20/</link>
+    <comments>https://ybtfm.netlify.app/20/#comments</comments>
     <pubDate>Wed, 26 Jun 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/20/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/20/</guid>
     <description>
         <![CDATA[The first era of YBT is almost over and Y’all Boys are running like Indiana Jones to complete their challenges before the boulder of failure catches up to them! Max is still out here 20 weeks in trying to figure out exactly what his non-profit does, despite all of Frank’s...]]>
     </description>
@@ -1110,7 +1110,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>59:56</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1119,15 +1119,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Music Without Words</title>
-    <link>https://ybt.fm/19/</link>
-    <comments>https://ybt.fm/19/#comments</comments>
+    <link>https://ybtfm.netlify.app/19/</link>
+    <comments>https://ybtfm.netlify.app/19/#comments</comments>
     <pubDate>Wed, 19 Jun 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/19/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/19/</guid>
     <description>
         <![CDATA[The fiery conclusion to this era of YBT is coming in fast much like the returning Steve sliding down the side of a volcano. After his Central American adventure, Steve reveals an issue he has with his luggage, Frank caves in to the sodium peddling giant that is Panda Express,...]]>
     </description>
@@ -1161,7 +1161,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>57:43</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1170,15 +1170,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Success Is Delicious (feat. Diana Garle of the “We’re So Young Podcast”)</title>
-    <link>https://ybt.fm/18/</link>
-    <comments>https://ybt.fm/18/#comments</comments>
+    <link>https://ybtfm.netlify.app/18/</link>
+    <comments>https://ybtfm.netlify.app/18/#comments</comments>
     <pubDate>Wed, 12 Jun 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/18/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/18/</guid>
     <description>
         <![CDATA[When their light skin #STTT co-host goes missing, Y’all Boys find another light-skin #STTT co-host in Diana Garle (and her dog Pickles) of the “We’re So Young Podcast” who brings her own challenge to the table. While here, Diana completes “A Perfect Max”, Max (the human, not the form of...]]>
     </description>
@@ -1218,7 +1218,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:01:54</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1227,15 +1227,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>You Thought I Was Gonna Do This?!</title>
-    <link>https://ybt.fm/17/</link>
-    <comments>https://ybt.fm/17/#comments</comments>
+    <link>https://ybtfm.netlify.app/17/</link>
+    <comments>https://ybtfm.netlify.app/17/#comments</comments>
     <pubDate>Wed, 05 Jun 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/17/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/17/</guid>
     <description>
         <![CDATA[Steve is venturing through the hot Alps of Nicaragua so Josh, Frank and Max are once again steering the ship this week. Frank ends a long term relationship with his phone, Max attempts to geo-locate a new therapist while living the one percenter life and Josh continues to dig himself...]]>
     </description>
@@ -1273,7 +1273,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <a href="https://www.jeanomusic.com/">Jeanomusic</a> and Interstitial Music by <a href="https://www.adnlewis.com/">ADN Lewis</a></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>0:49:54</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1282,15 +1282,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Hood Protectionism</title>
-    <link>https://ybt.fm/16/</link>
-    <comments>https://ybt.fm/16/#comments</comments>
+    <link>https://ybtfm.netlify.app/16/</link>
+    <comments>https://ybtfm.netlify.app/16/#comments</comments>
     <pubDate>Wed, 29 May 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/16/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/16/</guid>
     <description>
         <![CDATA[At the end of the first Guardians of The Galaxy film, all the Guardians hold hands and find that the power of community and a family is all they needed to get through… this is not like that because Y’all Boys are too far away from each other and it’s...]]>
     </description>
@@ -1324,7 +1324,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:10:57</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1333,15 +1333,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>First Drafts Are Better Than No Drafts</title>
-    <link>https://ybt.fm/15/</link>
-    <comments>https://ybt.fm/15/#comments</comments>
+    <link>https://ybtfm.netlify.app/15/</link>
+    <comments>https://ybtfm.netlify.app/15/#comments</comments>
     <pubDate>Wed, 22 May 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/15/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/15/</guid>
     <description>
         <![CDATA[Time keeps on slippin, slippin, slippin, into the future and the 10 year reunion looms closer than ever so Y’all Boys need to get to steppin! On that road they discuss the future of Dwayne “The Rock” Johnson movies, the rebounds that Josh makes for #TeamJosh, Frank playing no games,...]]>
     </description>
@@ -1377,7 +1377,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:07:23</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1386,15 +1386,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Thicc and Worthy</title>
-    <link>https://ybt.fm/14/</link>
-    <comments>https://ybt.fm/14/#comments</comments>
+    <link>https://ybtfm.netlify.app/14/</link>
+    <comments>https://ybtfm.netlify.app/14/#comments</comments>
     <pubDate>Wed, 15 May 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/14/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/14/</guid>
     <description>
         <![CDATA[Let’s not bury the lead here, MAX GOES TO THERAPY IN THIS EPISODE.
 
@@ -1442,7 +1442,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:00:54</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1451,15 +1451,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Life’s Not About Inspirational Quotes</title>
-    <link>https://ybt.fm/13/</link>
-    <comments>https://ybt.fm/13/#comments</comments>
+    <link>https://ybtfm.netlify.app/13/</link>
+    <comments>https://ybtfm.netlify.app/13/#comments</comments>
     <pubDate>Wed, 08 May 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/13/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/13/</guid>
     <description>
         <![CDATA[Y’all Boys are equally for accountability and hard work as they are against the convenience of Uber Eats. This week features a drastic change to the 10 year reunion transportation plans, a long streak being broken, a singer with a hella racist past, booing people into good habits and Max...]]>
     </description>
@@ -1495,7 +1495,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>57:59</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1504,15 +1504,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Sweet Deal Steve!</title>
-    <link>https://ybt.fm/12/</link>
-    <comments>https://ybt.fm/12/#comments</comments>
+    <link>https://ybtfm.netlify.app/12/</link>
+    <comments>https://ybtfm.netlify.app/12/#comments</comments>
     <pubDate>Wed, 01 May 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/12/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/12/</guid>
     <description>
         <![CDATA[Steve is out on bae-cation in Arizona so that leaves Josh, Frank and Max to question what their 19-year old selves would think of them now, ponder how hard we should think about company slogans, bow down to Queen Bey and dispel conspiracy theories about themselves.
 
@@ -1554,7 +1554,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>53:52</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1563,15 +1563,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Delivered DiGiorno</title>
-    <link>https://ybt.fm/11/</link>
-    <comments>https://ybt.fm/11/#comments</comments>
+    <link>https://ybtfm.netlify.app/11/</link>
+    <comments>https://ybtfm.netlify.app/11/#comments</comments>
     <pubDate>Wed, 24 Apr 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/11/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/11/</guid>
     <description>
         <![CDATA[If you didn’t think that this podcast was low-key about toppling the patriarchy one podcast at a time, you are surely mistaken as Josh gives the most passionate rebuttal to haters ever recorded on a podcast this week. Along with that, Y’all Boys discuss the impending streaming juggernaut Disney+, shaky...]]>
     </description>
@@ -1601,7 +1601,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:04:50</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1610,15 +1610,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>I Have Black Friends™</title>
-    <link>https://ybt.fm/10/</link>
-    <comments>https://ybt.fm/10/#comments</comments>
+    <link>https://ybtfm.netlify.app/10/</link>
+    <comments>https://ybtfm.netlify.app/10/#comments</comments>
     <pubDate>Wed, 17 Apr 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/10/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/10/</guid>
     <description>
         <![CDATA[Kendrick Lamar frequently asks: “Are you on ten yet?” This episode lives on ten in all the ways that are possible for it to live on ten. Y’all Boys discuss the boundaries of the n-word, Max is broadcasting live (on tape) from Paris, France, Josh takes a deep dive into...]]>
     </description>
@@ -1648,7 +1648,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:08:57</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1657,15 +1657,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Phasing Out</title>
-    <link>https://ybt.fm/9/</link>
-    <comments>https://ybt.fm/9/#comments</comments>
+    <link>https://ybtfm.netlify.app/9/</link>
+    <comments>https://ybtfm.netlify.app/9/#comments</comments>
     <pubDate>Wed, 10 Apr 2019 04:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/9/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/9/</guid>
     <description>
         <![CDATA[For the first time in recorded history, Y’all Boys have a guest in the form of the illustrious producer/singer/songwriter ADN Lewis to discuss the recent Billboard Country controversy over the Country/Trap hit Old Town Road. Also, Steves rocks a mean LSDJ, Josh performs some Physical Activity, Frank rebels against the...]]>
     </description>
@@ -1691,7 +1691,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>58:45</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1700,15 +1700,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Is it Cold?</title>
-    <link>https://ybt.fm/8/</link>
-    <comments>https://ybt.fm/8/#comments</comments>
+    <link>https://ybtfm.netlify.app/8/</link>
+    <comments>https://ybtfm.netlify.app/8/#comments</comments>
     <pubDate>Wed, 03 Apr 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/8/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/8/</guid>
     <description>
         <![CDATA[Yo, there are so many “L”s on this episode that Cool J had to give up a few due to demand. Bitter colds, cats with no regards for sheets, the trauma of spilling food, and the use of black people to sell video games are all addressed on this jam-packed...]]>
     </description>
@@ -1738,7 +1738,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>49:45</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1747,15 +1747,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>What is Fun?</title>
-    <link>https://ybt.fm/7/</link>
-    <comments>https://ybt.fm/7/#comments</comments>
+    <link>https://ybtfm.netlify.app/7/</link>
+    <comments>https://ybtfm.netlify.app/7/#comments</comments>
     <pubDate>Wed, 27 Mar 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/7/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/7/</guid>
     <description>
         <![CDATA[Straight up, this podcast is three more conversations away from being a full on Spider-Man podcast. Spider-Verse is sooooo good, go see it if you haven’t! Anyway, this week Y’all Boys take a deep dive into interracial relationships, Garageband preset names and the true meaning of “fun”. The #STTT of...]]>
     </description>
@@ -1781,7 +1781,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:05:55</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1790,15 +1790,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>The House of Y'all</title>
-    <link>https://ybt.fm/6/</link>
-    <comments>https://ybt.fm/6/#comments</comments>
+    <link>https://ybtfm.netlify.app/6/</link>
+    <comments>https://ybtfm.netlify.app/6/#comments</comments>
     <pubDate>Wed, 20 Mar 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/6/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/6/</guid>
     <description>
         <![CDATA[This week, Max gives the Illuminati tips for onboarding, Spider-Man gets the business for not showing Brooklyn love, the newly established “House of Y’all” vetoes a proposed change in a challenge and Frank wrestles with some difficult thoughts. Also, the #STTT of the Week has a young icon staying woke...]]>
     </description>
@@ -1824,7 +1824,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:14:07</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1833,15 +1833,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Legally Binding Podcast</title>
-    <link>https://ybt.fm/5/</link>
-    <comments>https://ybt.fm/5/#comments</comments>
+    <link>https://ybtfm.netlify.app/5/</link>
+    <comments>https://ybtfm.netlify.app/5/#comments</comments>
     <pubDate>Wed, 13 Mar 2019 07:00:00 -0700</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/5/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/5/</guid>
     <description>
         <![CDATA[Avoidance behavior is in full effect this week as Y’all Boys get real on the winding road to The Top. On their journey we’ll learn about using Settlers of Catan as a scapegoat, mathing your way out of situations and editing a podcast without headphones.
 
@@ -1879,7 +1879,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>1:02:58</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1888,15 +1888,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Are You Black?</title>
-    <link>https://ybt.fm/4/</link>
-    <comments>https://ybt.fm/4/#comments</comments>
+    <link>https://ybtfm.netlify.app/4/</link>
+    <comments>https://ybtfm.netlify.app/4/#comments</comments>
     <pubDate>Wed, 06 Mar 2019 07:00:00 -0800</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/4/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/4/</guid>
     <description>
         <![CDATA[Y’all Boys have a lot on their plates this week as they discuss the ramifications of the new Michael Jackson documentary, the fluidity of racial identity, a $50 Therapy gift card and THE COMPLETE AND UTTER BULLS*** that is Los Angeles traffic. This week’s #STTT of the Week are two...]]>
     </description>
@@ -1922,7 +1922,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>55:12</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1931,15 +1931,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Is Anyone on this Plane a Designer?!</title>
-    <link>https://ybt.fm/3/</link>
-    <comments>https://ybt.fm/3/#comments</comments>
+    <link>https://ybtfm.netlify.app/3/</link>
+    <comments>https://ybtfm.netlify.app/3/#comments</comments>
     <pubDate>Wed, 27 Feb 2019 07:00:00 -0800</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/3/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/3/</guid>
     <description>
         <![CDATA[Y’all Boys have reunited after Steve returns from the slopes and in this episode they question their immortality, discuss the downfalls of living hood rich and a record shattering announcement is revealed. This week’s #STTT of the Week is not only exceptionally talented and motivated, they’re one of the greatest...]]>
     </description>
@@ -1969,7 +1969,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>49:19</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -1978,15 +1978,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>Sharpening the Axe</title>
-    <link>https://ybt.fm/2/</link>
-    <comments>https://ybt.fm/2/#comments</comments>
+    <link>https://ybtfm.netlify.app/2/</link>
+    <comments>https://ybtfm.netlify.app/2/#comments</comments>
     <pubDate>Wed, 20 Feb 2019 07:00:00 -0800</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/2/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/2/</guid>
     <description>
         <![CDATA[With Steve off on bae-cation, the rest of Y’all Boys take over the reigns to discuss their rocky first week of challenges, mathematically justifying Hungry-Man TV Dinners, the dangers of large credit card limits and the first recorded vocabulary-related injury. Plus, this week’s #STTT of the Week shows us an...]]>
     </description>
@@ -2012,7 +2012,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>45:05</itunes:duration>
     <itunes:season>1</itunes:season>
@@ -2021,22 +2021,22 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>The Funny One</title>
-    <link>https://ybt.fm/1/</link>
-    <comments>https://ybt.fm/1/#comments</comments>
+    <link>https://ybtfm.netlify.app/1/</link>
+    <comments>https://ybtfm.netlify.app/1/#comments</comments>
     <pubDate>Wed, 13 Feb 2019 07:00:00 -0800</pubDate>
     <dc:creator><![CDATA[]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
 
-    <guid isPermaLink="true">https://ybt.fm/1/</guid>
+    <guid isPermaLink="true">https://ybtfm.netlify.app/1/</guid>
     <description>
         <![CDATA[Y’all Boys launch their first episode by setting challenges to hit before their 10-year high school reunion as well as the logistics of getting four people into a two-person car, the expanding waistline of Vin Diesel and the top seven white people of all time! Plus, Y’all Boys choose their...]]>
     </description>
     <content:encoded>
         <![CDATA[<p>Y’all Boys launch their first episode by setting challenges to hit before their 10-year high school reunion as well as the logistics of getting four people into a two-person car, the expanding waistline of Vin Diesel and the top seven white people of all time! Plus, Y’all Boys choose their first #STTT of the Week who proves that sometimes the warmest hearts can come from the coldest places.</p>
 
-<p>Keep up with Y’all Boys and their challenges at <a href="https://ybt.fm">ybt.fm</a>
+<p>Keep up with Y’all Boys and their challenges at <a href="https://ybtfm.netlify.app">ybt.fm</a>
 <br />Follow them on Twitter and Instagram: <strong>@yallboystalkin</strong></p>
 
 <p>This episode is sponsored by WATER and WAKING UP EARLY
@@ -2048,14 +2048,14 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:subtitle><![CDATA[Y’all Boys launch their first episode by setting challenges to hit before their 10-year high school reunion as well as the logistics of getting four people into a two-person car, the expanding waistline of Vin Diesel and the top seven white people of all time! Plus, Y’all Boys choose their...]]></itunes:subtitle>
     <itunes:summary><![CDATA[<p>Y’all Boys launch their first episode by setting challenges to hit before their 10-year high school reunion as well as the logistics of getting four people into a two-person car, the expanding waistline of Vin Diesel and the top seven white people of all time! Plus, Y’all Boys choose their first #STTT of the Week who proves that sometimes the warmest hearts can come from the coldest places.</p>
 
-<p>Keep up with Y’all Boys and their challenges at <a href="https://ybt.fm">ybt.fm</a>
+<p>Keep up with Y’all Boys and their challenges at <a href="https://ybtfm.netlify.app">ybt.fm</a>
 <br />Follow them on Twitter and Instagram: <strong>@yallboystalkin</strong></p>
 
 <p>This episode is sponsored by WATER and WAKING UP EARLY
 <br />Theme Song “Won’t Stop” by <strong>@jeanomusic</strong> and Interstitial Music by <strong>@ADNLewis</strong></p>
 ]]></itunes:summary>
     <itunes:author>Y'all Boys</itunes:author>
-    <itunes:image href="https://ybt.fm/assets/cover.jpeg" />
+    <itunes:image href="https://ybtfm.netlify.app/assets/cover.jpeg" />
     <itunes:explicit>yes</itunes:explicit>
     <itunes:duration>50:19</itunes:duration>
     <itunes:season>1</itunes:season>
